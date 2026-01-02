@@ -43,6 +43,7 @@ Here's a look at the PCB design from KiCad. It's where all the magic happens!
 The project started in 2022 within the "Pete" enthusiast group. The name is a humorous nod to Peter Zwegat—because let's be honest: in this hobby, we are all just one group-buy away from needing professional financial advice. 
 
 The RoRo80 was developed to provide the group with a reliable, easy-to-configure RP2040 PCB that fits a variety of popular TKL cases, combining community memes with serious engineering.
+Two friends of the Pete Group, Roman and Rohaly, asked me to design a PCB for all of us. That's what I did and named the PCB after these two guys.
 
 ---
 
