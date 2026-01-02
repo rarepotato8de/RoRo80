@@ -7,10 +7,10 @@ This is the V2 Version, which is based on the V1 that was SOLDER - the V2 here w
 
 ## Features
 * **Compatibility:** H87/H88 Form Factor
-* **Chipset:** RP2040 (Dual-core ARM Cortex M0+)
+* **Chipset:** RP2040 
 * **Mounting:** O-Ring cutouts & versatile mounting support
 * **Connectivity:** Breakable USB-C port (JST-header for Daughterboards)
-* **Software:** Full QMK & VIAL Support#
+* **Software:** Full QMK & VIAL Support
 * **LED:** Capslock and Scrolllock LEDs!
 
 ## Firmware & Flashing
