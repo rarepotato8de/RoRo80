@@ -34,7 +34,7 @@ The RoRo80 uses the UF2 bootloader, making flashing as easy as using a USB thumb
 3. **Subsequent times:** Hold the **BOOT** button, press **RESET** twice, then release **BOOT**.
 
 > [!TIP]
-> You can find the latest VIAL firmware in the `/firmware` folder of this repository.
+> You can find the firmwares in the `/firmware` folder of this repository.
 
 ## Supported Layouts
 * **Common:** 7U Tsangan Bottom Row, Stepped CapsLock, Split Backspace & Split Right Shift, F12/F13
@@ -61,6 +61,7 @@ Two friends of the Pete Group, **Roman and Rohaly**, asked me to design a PCB fo
 
 ## Open Source
 This project is part of the open-source keyboard movement. Thanks to Gnarsch aka. Roman for the permission. 
+
 WE LOVE OPEN SOURCE.
 
 ## Questions?
