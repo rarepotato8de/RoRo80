@@ -1,7 +1,6 @@
 # RoRo80: A custom 80% PCB for "Pete" 📉
 
-The **RoRo80** is a custom-designed TKL PCB created for the keyboard enthusiast group **"Pete"**. Named as a tribute to the legendary German debt counselor Peter Zwegat (a community inside joke), this PCB is designed to deliver high-end performance without breaking the bank.
-This is the V2 Version, which is based on the V1 that was SOLDER - the V2 here was now made Hotswap and has some improvements
+The **RoRo80** is a custom-designed TKL PCB created for the keyboard enthusiast group **"Pete"**. Named as a tribute to the legendary German debt counselor Peter Zwegat (a community inside joke).
 
 <img width="2548" height="958" alt="image" src="https://github.com/user-attachments/assets/9849fcd0-dbd3-49bd-adc0-5a59948275f1"/>
 
