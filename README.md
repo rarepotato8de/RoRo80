@@ -60,7 +60,8 @@ Two friends of the Pete Group, **Roman and Rohaly**, asked me to design a PCB fo
 ---
 
 ## Open Source
-This project is part of the open-source keyboard movement. Files will be released to the public soon!
+This project is part of the open-source keyboard movement. Thanks to Gnarsch aka. Roman for the permission. 
+WE LOVE OPEN SOURCE.
 
 ## Questions?
 Feel free to open an issue or message me directly!
